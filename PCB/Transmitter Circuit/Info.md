@@ -1,1 +1,1 @@
-This contians the PCB of the transmitter circuit 
+This contains the PCB of the transmitter circuit 
